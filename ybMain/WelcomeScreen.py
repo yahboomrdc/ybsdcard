@@ -2,6 +2,7 @@ from media.display import *
 from media.media import *
 import time, os, sys, gc
 import lvgl as lv
+import machine
 from machine import TOUCH
 from ybUtils.Configuration import Configuration
 
